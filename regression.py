@@ -1535,6 +1535,8 @@ old_unittests = {
     "GAMESS/GAMESS-US2010/dvb_td.log":      GAMESSUSTDDFTTest,
     "GAMESS/GAMESS-US2010/dvb_ir.log":      GenericIRTest,
 
+    "GAMESS/GAMESS-US2012/Trp_polar_tdhf.out":    ReferencePolarTest,
+
     "GAMESS/GAMESS-US2014/Trp_polar_freq.out":         ReferencePolarTest,
     "GAMESS/GAMESS-US2014/trithiolane_polar_freq.out": GaussianPolarTest,
     "GAMESS/GAMESS-US2014/trithiolane_polar_tdhf.out": GenericPolarTest,

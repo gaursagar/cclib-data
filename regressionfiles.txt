@@ -109,6 +109,7 @@ GAMESS/GAMESS-US2012/MoOCl4-sp.out
 GAMESS/GAMESS-US2012/nh3_ts_ir.out
 GAMESS/GAMESS-US2012/ScriptBicarbNa1B3LYP-B2Vib-good.gamout
 GAMESS/GAMESS-US2012/stopiter_gamess.out
+GAMESS/GAMESS-US2012/Trp_polar_tdhf.out
 GAMESS/GAMESS-US2012/water_ccd.out
 GAMESS/GAMESS-US2012/water_ccsd.out
 GAMESS/GAMESS-US2012/water_ccsd(t).out
